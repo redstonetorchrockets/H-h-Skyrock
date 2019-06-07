@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "rtr:goldpan"
+        },
+
+        "components": {
+            "minecraft:stacked_by_data": true,
+            "register_to_creative_menu": true
+        }
+    }
+}
