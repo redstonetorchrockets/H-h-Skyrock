@@ -1,0 +1,15 @@
+{
+    "format_version": 1,
+    "header": {
+        "name": "Bedrock Rocket",
+        "description": "Skyblock for Minecraft Bedrock",
+        "uuid": "0854b3ea-eef4-4aa0-b7fe-8165fad7e2eb",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [{
+        "type": "data",
+        "uuid": "a5c87211-2700-4299-91a8-e3f9718fabb2",
+        "version": [0, 0, 1]
+    }]
+}
